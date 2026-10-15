@@ -23,7 +23,7 @@ Certifique-se de ter o **Java JDK** (versão 11 ou superior) instalado em sua m�
 ### Passos para rodar no Terminal
 1. Clone o repositório:
    ```bash
-   [git clone https://github.com/Leo300609/Funcoes_em_JAVA.git
+   git clone https://github.com/Leo300609/Funcoes_em_JAVA.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
